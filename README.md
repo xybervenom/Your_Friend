@@ -4,7 +4,7 @@
 
 Team Members- Jayant , Bala Yokesh, Soham Patil
 
-# Check Out this project at- http://your-friends.epizy.com/
+# Check Out this project at- http://yourfriends.balayokesh.xyz/
 
 or else Run it locally
 
